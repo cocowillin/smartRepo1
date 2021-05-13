@@ -7,5 +7,6 @@ public class HelloGit {
         System.out.println("Hello Git!");
         System.out.println("版本1");
         System.out.println("创建分支了 2021年5月13日22:04:44");
+        System.out.println("主干添加");
     }
 }
